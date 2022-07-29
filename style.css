@@ -1,0 +1,20 @@
+li { 
+    display:block;
+    padding: 5px;
+    float: left; 
+    
+    }
+li a {
+    text-decoration: none;
+    color:white
+    }
+li a:hover{
+    text-decoration: underline;
+    color:brown;
+    }
+ul {
+    background-color: gray; 
+    display:block;
+    overflow:hidden;
+    }
+h1,h2,h3,h4 {color:brown}
